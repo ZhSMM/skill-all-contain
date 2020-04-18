@@ -15,6 +15,15 @@
 3. 常备插件：
 
    - 谷歌访问助手
-   - Infinity新标签页
+   - **Infinity新标签页**
    - crxMouse Chrome™ 手势：鼠标移动显示
+   - Adblock Plus：拦截弹出广告
+
+4. 脚本管理插件：
+
+   - tampermonkey
+
+5. 下载插件：
+
+   - IDM
 
