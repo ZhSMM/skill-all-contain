@@ -1,6 +1,7 @@
 # mybatis插入数据后返回自增主键ID详解
 
-### [原文链接](https://cloud.tencent.com/developer/article/1474439)
+- [原文链接](https://cloud.tencent.com/developer/article/1474439)
+- [官方文档](https://mybatis.org/mybatis-3/zh/java-api.html)
 
 #### 1.场景介绍:
 

@@ -1,5 +1,7 @@
 # Skill-All-Container
 
+![分布式](./分布式.png)
+
 ### 官方文档
 
 ### 实用技巧
