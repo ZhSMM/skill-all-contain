@@ -21,7 +21,12 @@
 #### TCP/IP笔记
 
 - [概述](./learn/网络/概述.md)
+- [链路层](./网络/链路层.md)
 
 #### MyBatis
 
 - [mybatis插入数据后返回自增主键ID详解](./learn/mybatis/mybatis插入数据后返回自增主键ID详解.md)
+
+### Ajax
+
+- [通过url获取参数](./learn/ajax/通过url获取参数.md)
