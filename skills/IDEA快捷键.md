@@ -1,5 +1,13 @@
 # IDEA快捷键
 
+
+
+### 被修改的快捷键
+
+- alt+insert - > alt+e ：自动生成；
+- alt + r ：在文件路径中查找；
+- alt+shift+ctrl：多行同时操作；
+
 ### 编辑
 
 - 复制一行：CTRL + D
