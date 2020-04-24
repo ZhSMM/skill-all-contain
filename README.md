@@ -4,7 +4,7 @@
 
 ### 资源网址
 
-- [中国国家候选队论文1999-2019]([https://github.com/enkerewpo/OI-Public-Library/tree/master/IOI%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%80%99%E9%80%89%E9%98%9F%E8%AE%BA%E6%96%871999-2019#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-1](https://github.com/enkerewpo/OI-Public-Library/tree/master/IOI中国国家候选队论文1999-2019#数据结构-1))
+- [中国国家候选队论文1999-2019](https://github.com/enkerewpo/OI-Public-Library/tree/master/IOI中国国家候选队论文1999-2019#数据结构-1)
 
 ### 实用技巧
 
