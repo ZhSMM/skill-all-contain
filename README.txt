@@ -28,11 +28,13 @@ C:.
 │              封装.png
 │              
 ├─questions
-│      question1.md
+│      VMwareWorkstation与DeviceCredentialGuard不兼容.md
+│      解决idea中tomcat中文乱码.md
 │      
 └─skills
         Chrome浏览器设置.md
         git命令图表.pdf
         IDEA快捷键.md
+        Win10使用技巧.md
         windows生成文档树目录.md
         
