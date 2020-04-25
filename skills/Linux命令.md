@@ -13,3 +13,5 @@
   - -a ：稍微具体一点的信息
 - cat  /proc/version：操作系统发行版本信息
 - cat  /etc/issue：内核信息
+- whoami：查看目前登录身份
+- whereis +[app]：查看软件目录
