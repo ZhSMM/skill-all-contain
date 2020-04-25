@@ -33,8 +33,8 @@
 ### reference
 
 - [msdn](https://msdn.itellyou.cn/)
-
 - [win10下VMware15安装centos7详细步骤](https://blog.csdn.net/nuoyanli/article/details/86503686)
+- [VMware官方文档](https://docs.vmware.com/cn/VMware-Workstation-Pro/15.0/com.vmware.ws.using.doc/GUID-93BDF7F1-D2E4-42CE-80EA-4E305337D2FC.html)
 - [VMware15安装Centos7超详细过程](https://www.cnblogs.com/happy2010/p/10880765.html)
 - [VMware虚拟机三种网络模式：桥接模式，NAT模式，仅主机模式](https://blog.csdn.net/qq_39192827/article/details/85872025)
 
