@@ -9,7 +9,7 @@
 - [软件工程技术面试个人指南](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md#数据结构)
 - [项目实践：SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666)
 - [Spring core 5.2.2.RELEASE](https://docs.spring.io/spring/docs/5.2.2.RELEASE/spring-framework-reference/core.html#spring-core)
-- [Java 视频教程全集（376P） | 80 小时从入门到精通](https://www.bilibili.com/video/BV1Jt411g7g4?p=125)
+- [Java 视频教程全集](https://www.bilibili.com/video/BV1Jt411g7g4?p=125)
 
 ### 实用技巧
 
