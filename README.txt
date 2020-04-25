@@ -35,6 +35,7 @@ C:.
         Chrome浏览器设置.md
         git命令图表.pdf
         IDEA快捷键.md
+        VMware15安装CentOS.md
         Win10使用技巧.md
         windows生成文档树目录.md
         二进制小技巧.md

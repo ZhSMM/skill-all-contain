@@ -18,6 +18,11 @@
 - [windows生成文档树目录](./skills/windows生成文档树目录.md)
 - [Win10使用技巧](./skills/Win10使用技巧.md)
 
+#### VMware安装CentOS
+
+- [VMware15安装CentOS](./skills/VMware15安装CentOS.md)
+- [docker安装](https://gitee.com/letoco/docker-learning)
+
 #### 浏览器
 
 - [Chrome浏览器设置](./skills/Chrome浏览器设置.md)
@@ -92,6 +97,7 @@
         Chrome浏览器设置.md
         git命令图表.pdf
         IDEA快捷键.md
+        VMware15安装CentOS.md
         Win10使用技巧.md
         windows生成文档树目录.md
         二进制小技巧.md
