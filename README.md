@@ -22,6 +22,7 @@
 
 - [VMware15安装CentOS](./skills/VMware15安装CentOS.md)
 - [docker安装](https://gitee.com/letoco/docker-learning)
+- [Linux命令](./skills/Linux命令.md)
 
 #### 浏览器
 
