@@ -9,6 +9,8 @@ C:.
 │  分布式.png
 │  
 ├─learn
+│  │  分布式.md
+│  │  
 │  ├─ajax
 │  │      通过url获取参数.md
 │  │      
@@ -16,6 +18,7 @@ C:.
 │  │      mybatis插入数据后返回自增主键ID详解.md
 │  │      
 │  └─网络
+│      │  Web请求过程.md
 │      │  概述.md
 │      │  链路层.md
 │      │  
@@ -35,6 +38,7 @@ C:.
         Chrome浏览器设置.md
         git命令图表.pdf
         IDEA快捷键.md
+        Linux命令.md
         VMware15安装CentOS.md
         Win10使用技巧.md
         windows生成文档树目录.md
