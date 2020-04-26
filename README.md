@@ -27,6 +27,7 @@
 #### 浏览器
 
 - [Chrome浏览器设置](./skills/Chrome浏览器设置.md)
+- [快速静态html编写](./skills/快速静态html编写.md)
 
 #### git
 
