@@ -13,6 +13,11 @@
 
 ### 实用技巧
 
+#### 软件下载
+
+- [公众号](https://mp.weixin.qq.com/s/zeq1sTmaPsKt7Bsok0Ldrg)
+- [百度云链接](https://pan.baidu.com/s/1IMpKH83Ei6tS7L9lok9pWA)    提取码：2742
+
 #### Windows10
 
 - [windows生成文档树目录](./skills/windows生成文档树目录.md)

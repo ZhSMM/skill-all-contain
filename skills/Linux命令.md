@@ -15,3 +15,5 @@
 - cat  /etc/issue：内核信息
 - whoami：查看目前登录身份
 - whereis +[app]：查看软件目录
+
+- 删除文件夹：rm -rf [directory]  -r递归删除 -f强制删除，不做提示
