@@ -1,6 +1,6 @@
 # Skill-All-Container
 
-![分布式](./分布式.png)
+
 
 ### 资源网址
 
@@ -28,6 +28,7 @@
 - [VMware15安装CentOS](./skills/VMware15安装CentOS.md)
 - [docker安装](https://gitee.com/letoco/docker-learning)
 - [Linux命令](./skills/Linux命令.md)
+- [Redis学习笔记](https://gitee.com/letoco/spring-boot-redis/tree/master)
 
 #### 浏览器
 
@@ -67,6 +68,8 @@
 ### Ajax
 
 - [通过url获取参数](./learn/ajax/通过url获取参数.md)
+
+![分布式](./分布式.png)
 
 ### 文件目录
 
